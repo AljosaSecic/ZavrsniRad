@@ -1,0 +1,76 @@
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csprojAssemblyReference.cache
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Properties.Resources.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.GenerateResource.cache
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe.config
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form2.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form3.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form4.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form5.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form1.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form6.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form7.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\Igrice.accdb
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.FormaZaBazu.resources
+C:\Users\Aljosa\source\repos\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.StartForm.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\bin\Debug\Igrice.accdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe.config
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csprojAssemblyReference.cache
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form1.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form3.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form2.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form4.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form6.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form5.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form8.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form7.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Properties.Resources.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.StartForm.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.GenerateResource.cache
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice - Copy\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\Igrice.accdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe.config
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form1.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form3.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form2.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form4.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form6.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form5.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form8.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form7.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Properties.Resources.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.StartForm.resources
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.GenerateResource.cache
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.exe
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.pdb
+C:\Users\Aljosa\Desktop\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csprojAssemblyReference.cache
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\Igrice.accdb
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe.config
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.exe
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\bin\Debug\EkspertniSistemZaIgrice.pdb
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csprojAssemblyReference.cache
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form1.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form3.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form2.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form4.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form6.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form5.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form8.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Form7.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.Properties.Resources.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.StartForm.resources
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.GenerateResource.cache
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.csproj.CoreCompileInputs.cache
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.exe
+D:\Downloads\Fakultet\Slike za sistem\EkspertniSistemZaIgrice\EkspertniSistemZaIgrice\obj\Debug\EkspertniSistemZaIgrice.pdb

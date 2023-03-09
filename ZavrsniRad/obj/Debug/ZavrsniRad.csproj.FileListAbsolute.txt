@@ -1,0 +1,77 @@
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form1.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form3.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form2.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form4.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form6.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form5.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form8.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form7.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Properties.Resources.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.StartForm.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.exe
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\bin\Debug\Igrice.accdb
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.exe.config
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.exe
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.pdb
+C:\Users\Aljosa\Desktop\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.pdb
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\Igrice.accdb
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.exe.config
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.exe
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.pdb
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form1.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form3.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form2.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form4.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form6.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form5.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form8.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form7.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Properties.Resources.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.StartForm.resources
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.exe
+C:\Users\Aljosa\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.pdb
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\Igrice.accdb
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.exe.config
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.exe
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\bin\Debug\ZavrsniRad.pdb
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form1.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form3.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form2.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form4.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form6.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form5.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form8.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Form7.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.Properties.Resources.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.StartForm.resources
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.exe
+C:\Users\Stefan\Desktop\ZavrsniRad - Copy\ZavrsniRad\obj\Debug\ZavrsniRad.pdb
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\bin\Debug\Igrice.accdb
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.exe.config
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.exe
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\bin\Debug\ZavrsniRad.pdb
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.AssemblyReference.cache
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.SuggestedBindingRedirects.cache
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form1.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form3.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form2.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form4.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form6.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form5.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form8.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Form7.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.Properties.Resources.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.StartForm.resources
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.GenerateResource.cache
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.exe
+C:\Users\aljos\Downloads\Fakultet\Diplomski\ZavrsniRad\ZavrsniRad\obj\Debug\ZavrsniRad.pdb
